@@ -1,0 +1,39 @@
+.inicioSesion {
+    margin-left: 400px;
+    margin-top: 200px;
+    background-color: #F4F4F4;
+    width: 680px;
+    font-family: helvetica;
+    padding-left: 20px;
+    height: 190px;
+    padding-top: 1px;
+    border-radius: 10px;
+}
+.inicioSesion2 {
+    padding-left: 190px;
+    font-family: helvetica;
+}
+input#usuario {
+    width: 192px;
+}
+input#inicioSesion {
+    height: 22px;
+    background-color: black;
+    font-weight: bold;
+    border: none;
+    color: white;
+    border-radius: 3px;
+    margin-left: 25px;
+}
+input#inicioSesion:hover {
+    color: #DFEF36;
+}
+a {
+    text-decoration: none;
+    padding-left: 10px;
+    color: black;
+    font-weight: bold;
+}
+a:hover {
+    color: mediumpurple;
+}

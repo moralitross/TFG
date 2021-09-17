@@ -1,0 +1,28 @@
+.nuevoUsu {
+    margin-left: 550px;
+    background-color: #F4F4F4;
+    width: 300px;
+    margin-top: 200px;
+    height: 200px;
+    padding-left: 70px;
+    padding-top: 20px;
+    border: none;
+    border-radius: 10px;
+    font-family: helvetica;
+}
+input#nUsuario {
+    width: 192px;
+}
+input#enviarNewUser {
+    margin-left: 90px;
+    height: 30px;
+    width: 60px;
+    background-color: black;
+    font-weight: bold;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+input#enviarNewUser:hover {
+    color: #DFEF36;
+}

@@ -1,0 +1,59 @@
+  
+.grid {
+	margin-left: 520px;
+	width: 450px;
+	height: 450px;
+	border: solid black 1px;
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.grid div {
+	width: 30px;
+	height: 30px;
+}
+.tablero {
+	text-align: center;
+  }
+.invader {
+	border-radius: 5px;
+    background-image: url("imgs/invader.png");
+}
+
+.shooter {
+    border-radius: 5px;
+    background-image: url("imgs/shooter.png");
+}
+
+.laser {
+    background-image: url("imgs/shot.png");
+}
+
+.boom {
+    background-image: url("imgs/boom.png");
+}
+button.botonInicio {
+	background-image: url("imgs/juegos.png");
+	width: 24.3px;
+	height: 24px;
+	border: none;
+}
+button.botonInicio:hover {
+	background-image: url("imgs/consola.png");
+	width: 24px;
+	height: 24px;
+	border: none;
+}
+.botonReiniciar {
+    margin-left: 710px;
+    margin-top: 20px;
+	height: 22px;
+	background-color: black;
+	font-weight: bold;
+	border: none;
+	color: white;
+	border-radius: 3px;
+}
+.botonReiniciar:hover {
+	color: #DFEF36;
+}

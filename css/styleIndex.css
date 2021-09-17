@@ -1,0 +1,46 @@
+.contenido{
+    margin-left: 500px;
+    width: 500px;
+    height: 280px;
+    background-color: #F4F4F4;
+    border-radius: 2px;
+    margin-top: 200px;
+}
+h2.mensajeInicio {
+    margin-left: 80px;
+    padding-top: 30px;
+    font-family: helvetica;
+}
+a {
+    margin-left: 200px;
+    text-decoration: none;
+    color: dodgerblue;
+    font-size: 14px;
+}
+a:hover{
+    color: mediumpurple;
+}
+h3.mensajeInicio2 {
+    margin-left: 40px;
+    font-family: helvetica;
+}
+h2.mensaje {
+    margin-left: 180px;
+    font-family: helvetica;
+}
+button.botonInicio {
+    background-image: url("imgs/home2.png");
+    width: 24px;
+    height: 24px;
+    border: none;
+}
+button.botonInicio:hover {
+    background-image: url("imgs/home.png");
+    width: 24px;
+    height: 24px;
+    border: none;
+}
+.mostrarUsuario {
+    margin-left: 200px;
+    font-weight: bold;
+}

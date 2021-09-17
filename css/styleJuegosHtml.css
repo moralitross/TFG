@@ -1,0 +1,60 @@
+.divJuegos {
+    width: max-content;
+}
+.botonesInicioyCerrarSesion {
+    display: flex;
+}
+input.botonCerrarSesion {
+    margin-left: 1390px;
+    font-family: helvetica;
+    height: 22px;
+    background-color: black;
+    font-weight: bold;
+    border: none;
+    color: white;
+    border-radius: 3px;
+}
+input.botonCerrarSesion:hover {
+    color: #DFEF36;
+}
+input.botonSnake {
+    margin-left: 350px;
+    margin-top: 180px;
+    width: 400px;
+    height: 200px;
+    background-image: url("imgs/snake.jpg");
+    font-family: fantasy;
+    font-size: 23px;
+    color: whitesmoke;
+    padding-top: 15px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+}
+input.botonSpaceInv{
+    width: 400px;
+    height: 200px;
+    background-image: url("imgs/spaceInvaders.jpg");
+    font-family: fantasy;
+    font-size: 20px;
+    color: whitesmoke;
+    padding-top: 16px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0px 8px 15px rgb(0 0 0 / 10%);
+}
+.juegosBoton{
+    display: inline;
+}
+button.botonInicio {
+background-image: url("imgs/home2.png");
+width: 24px;
+height: 24px;
+border: none;
+}
+button.botonInicio:hover {
+background-image: url("imgs/home.png");
+width: 24px;
+height: 24px;
+border: none;
+}
